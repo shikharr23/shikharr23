@@ -1,10 +1,10 @@
-<h1 align="center" > Hi, I'm Shikharr </h1>
-<p align="center>A Software developer from Jammu building full stack applications</p>
+<h1 align="center"> Hi, I'm Shikharr </h1>
+<p align="center">A Software developer from Jammu building full stack applications</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack;DSA+Enthusiast;Partime-Larper" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack;DSA+Enthusiast;Partime-Larper" alt="Typing SVG" />
 </p>
 
-###  Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/shikhar-261246230/" target="_blank">
@@ -20,18 +20,8 @@
 
 ---
 
-<!-- ### 💻 About Me
+### Tech Stack & Tools
 
-
-  -->
-
-<!-- *   🌱 **Current Focus:** Mastering the MERN Stack, sharpening my DSA skills in C++, and working on **AlgoAtlas**.
-*   🎯 **Goals:** Secure a Software Engineering Internship, solve 500+ DSA problems, and build production-ready projects.
-*   📍 **Based in:** Jammu, India -->
-
-
-
-###  Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -50,24 +40,9 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
 </p>
-<!-- ---
 
-
+---
 
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYf4r2CGJSi8-kA9llUd0e6v5qmPhD6NbbY-P5kiOqqQ&s" width="600" alt="chaewon-cinema" />
 </p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shikharr23&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" alt="Shikhar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikharr23&layout=compact&theme=chartreuse-dark&hide_border=true" width="48%" alt="Shikhar's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shikharr23&theme=chartreuse-dark&hide_border=true" width="100%" alt="Shikhar's Streak Stats" />
-</p>
-
---- -->
-
