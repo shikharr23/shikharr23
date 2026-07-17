@@ -1,10 +1,10 @@
 <h1 align="center" > Hi, I'm Shikharr </h1>
-
+<p align="center>A Software developer from Jammu building full stack applications</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack;DSA+Enthusiast;Partime-Larper" />
 </p>
 
-### 🔗 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/shikhar-261246230/" target="_blank">
@@ -51,6 +51,12 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
 </p>
 <!-- ---
+
+
+
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYf4r2CGJSi8-kA9llUd0e6v5qmPhD6NbbY-P5kiOqqQ&s" width="600" alt="chaewon-cinema" />
+</p>
 
 ### 📊 GitHub Stats
 
