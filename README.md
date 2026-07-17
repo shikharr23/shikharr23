@@ -43,6 +43,6 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYf4r2CGJSi8-kA9llUd0e6v5qmPhD6NbbY-P5kiOqqQ&s" width="600" alt="chaewon-cinema" />
-</p>
+</p> -->
